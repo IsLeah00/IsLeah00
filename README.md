@@ -1,8 +1,8 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Coding.%20Coffee.%20Chaos.&fontSize=70&color=0:e1f3e1,100:3f963f&stroke=3f963f"  />
-  <img align="right" height="180" src="./cat.gif"  />
+  <img height="130" src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Coding.%20Coffee.%20Chaos.&fontSize=70&color=0:e1f3e1,100:3f963f&stroke=3f963f"  />
+  <img align="right" height="150" src="./cat.gif"  />
 </div>
 
 ###
