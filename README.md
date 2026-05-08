@@ -18,7 +18,7 @@
   </p>
 
   <p>
-    <a href="www.linkedin.com/in/kornelia-mezei" target="_blank">
+    <a href="https://www.linkedin.com/in/kornelia-mezei" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Korn%C3%A9lia%20Mezei-436C9D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
